@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kranthi Kasturi
+- 👀 I’m interested in topics Computer science, Quantum Machine learning, software engineering, mathematics, Systems design, Web 3 and list goes on..
+- 🌱 I’m currently learning Software development, machine learning, mathematics
